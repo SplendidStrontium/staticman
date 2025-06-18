@@ -1,1 +1,1 @@
-web: node lib/Staticman.js
+web: node index.js
